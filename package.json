@@ -1,0 +1,15 @@
+{
+  "name": "appco-api-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Raven_Vol",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: No test specified\" && exit 1"
+  }
+}
